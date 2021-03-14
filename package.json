@@ -1,6 +1,6 @@
 {
   "name": "tgbotjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Telegram bot API NodeJS",
   "repository": "https://github.com/ogneyar/TgBotJS",
   "main": "bot.js",
