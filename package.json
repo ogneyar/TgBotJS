@@ -2,6 +2,7 @@
   "name": "tgbotjs",
   "version": "0.0.1",
   "description": "Telegram bot API NodeJS",
+  "repository": "https://github.com/ogneyar/TgBotJS",
   "main": "bot.js",
   "scripts": {
     "start": "node bot"
